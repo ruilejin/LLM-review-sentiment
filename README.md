@@ -1,5 +1,5 @@
 # LLM-review-sentiment
-This is a review santiment analysis project. In this project, we explore the best modeling way for building sentiment classifier.      
+This is a review santiment analysis project. In this project, we explore the best modeling way for building sentiment classifier. The LLM we use is RoBERTa.     
 
 mask_language_model_fine_tune.ipynb:         
 To fine tune mask language model on domain knowledge, in this project which is movie reviews.
