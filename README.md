@@ -1,4 +1,5 @@
 # LLM-review-sentiment
+data source link: https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset       
 This is a review santiment analysis project. In this project, we explore the best modeling way for building sentiment classifier. The LLM we use is RoBERTa.     
 
 mask_language_model_fine_tune.ipynb:         
